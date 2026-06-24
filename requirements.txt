@@ -1,0 +1,17 @@
+torch
+transformers
+sentence-transformers
+qdrant-client
+rank-bm25
+langchain
+langchain-community
+langchain-qdrant
+pypdf
+accelerate
+bitsandbytes
+scikit-learn
+numpy
+pandas
+tqdm
+ragas
+datasets
